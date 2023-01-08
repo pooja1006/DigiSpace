@@ -1,3 +1,14 @@
+DIGISPACE
+
+# Introduction
+
+This is a UI assignment.
+It consist of a heading along with 5 responsive cards.
+
+# Tech Stack used 
+
+React , Material UI and Styled Components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
