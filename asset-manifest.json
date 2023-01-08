@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DigiSpace/static/css/main.762bb51d.css",
+    "main.js": "/DigiSpace/static/js/main.c93538b7.js",
+    "static/media/logo.svg": "/DigiSpace/static/media/logo.62e5e9965cb3984b0ce1f48db240873f.svg",
+    "static/media/snowflake.svg": "/DigiSpace/static/media/snowflake.8477bd594fe38ae9e004a6f924c08cd7.svg",
+    "static/media/fire.svg": "/DigiSpace/static/media/fire.0487a371a612beb84cad4882afe7a99b.svg",
+    "index.html": "/DigiSpace/index.html",
+    "main.762bb51d.css.map": "/DigiSpace/static/css/main.762bb51d.css.map",
+    "main.c93538b7.js.map": "/DigiSpace/static/js/main.c93538b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.762bb51d.css",
+    "static/js/main.c93538b7.js"
+  ]
+}
